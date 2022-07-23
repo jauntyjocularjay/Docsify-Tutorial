@@ -3,8 +3,8 @@
 ##  Before you start
 We assume you --
 - are familiar with the Terminal on Mac and Linux.
-- know not to copy the `$` to enter commands.
-- you are familiar with GitHub
+- know not to copy the `$` as part of the commands.
+- you are familiar with Git & GitHub and you are using them.
 
 ## Installing Packages & Workspace setup
 1. Open the terminal
