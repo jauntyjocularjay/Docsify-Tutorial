@@ -21,6 +21,7 @@ $ npm install -g npm
 ```
 $ npm i docsify-cli -g
 ```
+
 1. Create and navigate to your project folder:
 ```
 $ cd ~
@@ -29,9 +30,15 @@ $ cd Workspace
 $ mkdir project
 $ cd project
 ```
+
 1. Initialize documentation folder
 ```
 $ docsify init ./docs
+```
+
+1. Activate the local server
+```
+$ docsify serve ./docs
 ```
 
 # Installing Docsify to a Repl

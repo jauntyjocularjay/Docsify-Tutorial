@@ -4,6 +4,9 @@ $ npm i docsify-cli
 // Initialize documentation folder
 $ docsify init ./docs
 
+// Run the local server
+$ docsify serve ./docs
+
 // Markdown Syntax Reference
 https://www.markdownguide.org/
 
