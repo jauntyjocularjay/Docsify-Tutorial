@@ -1,0 +1,4 @@
+// Enter SU mode:
+$ sudo su
+Password: // Enter Password to your computer
+sh-3.2# // run command here

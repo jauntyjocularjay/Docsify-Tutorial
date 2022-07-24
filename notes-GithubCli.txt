@@ -1,0 +1,12 @@
+Install GitHub CLI on macOS, Windows, or Linux.
+$ brew install gh
+
+In the command line, authenticate to GitHub.
+$ gh auth login
+
+Create a new Git, add files, push to repo
+$ cd /path/to/your/existing/code 
+$ git init
+$ git add .
+$ git commit -m "Initial Commit"
+

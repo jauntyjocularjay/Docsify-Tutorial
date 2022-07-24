@@ -1,0 +1,11 @@
+// Install  Docsify Locally
+$ npm i docsify-cli
+
+// Initialize documentation folder
+$ docsify init ./docs
+
+// Markdown Syntax Reference
+https://www.markdownguide.org/
+
+// Markdown Cheat Sheet
+https://www.markdownguide.org/cheat-sheet/
