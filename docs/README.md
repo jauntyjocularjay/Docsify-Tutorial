@@ -1,3 +1,3 @@
-# Headline
+# Welcome to the Docsify Setup and Markdown Tutorial <!-- {docsify-ignore} -->
 
-> An awesome project.
+Thanks for checking out this project. I was getting very frustrated while I was trying to set up Docsify. I figured it out (obviously) but I thought I would make a tutorial to show colleagues who might want to use Codsify for our developer documentation. That didn't work out as Docsify doesn't appear to do what I wanted it to do, but I thought it would be a shame to let it go to waste. So check it out, I hope you find it useful.
