@@ -35,4 +35,4 @@ $ docsify init ./docs
 ```
 
 # Installing Docsify to a Repl
-This is currently broken. Don't even bother.
+This is currently broken at least for me. You can [try it out](http://www.replit.com) if you want.

@@ -2,4 +2,4 @@
 
 Thanks for checking out this project. I was getting very frustrated while I was trying to set up Docsify. I figured it out (obviously) but I thought I would make a tutorial to show colleagues who might want to use Codsify for our developer documentation. That didn't work out as Docsify doesn't appear to do what I wanted it to do, but I thought it would be a shame to let it go to waste. So check it out, I hope you find it useful.
 
-To begin you can go to the (`./docs/README.md`){https://github.com/jadedrakerider/Docsify-Tutorial/blob/master/docs/1setup.md} file and read it on GitHub or you can install codsify on your machine and you can see exactly how Codsify looks. I recomend the latter if you are presenting this for demonstration purposes.
+To begin you can go to the (/docs/README.md){https://github.com/jadedrakerider/Docsify-Tutorial/blob/master/docs/1setup.md} file and read it on GitHub or you can install codsify on your machine and you can see exactly how Codsify looks. Viewing the `*.md` files in GitHub will have minor formatting weirdness. I recomend the latter if you are presenting this for demonstration purposes.
